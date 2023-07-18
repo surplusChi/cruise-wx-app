@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "./",
   "projectname": "cruise-wx-app",
-  "appid": "testAppId",
+  "appid": "wxd2b919ac39cca586",
   "setting": {
     "es6": false,
     "minified": false
