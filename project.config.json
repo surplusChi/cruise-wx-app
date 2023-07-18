@@ -2,7 +2,7 @@
   "miniprogramRoot": "./dist",
   "projectname": "cruise-wx-app",
   "description": "游轮商城小程序",
-  "appid": "touristappid",
+  "appid": "wxd2b919ac39cca586",
   "setting": {
     "urlCheck": true,
     "es6": false,
